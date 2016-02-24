@@ -44,4 +44,5 @@ $ test
 ```
 
 ## Credit
-[cuid](https://npmjs.org/package/cuid) by Eric Elliott
+- By [frlorenzo](https://github.com/frlorenzo)
+- [cuid](https://npmjs.org/package/cuid) by Eric Elliott
