@@ -1,0 +1,26 @@
+{
+  "name": "cuid-plus",
+  "version": "1.0.0",
+  "description": "cuid add-on functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "clear; mocha --reporter spec test.js",
+    "watch": "clear; mocha --reporter min --watch test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frlorenzo/cuid-plus.git"
+  },
+  "keywords": [
+    "cuid",
+    "date",
+    "timestamp",
+    "valid"
+  ],
+  "author": "frlorenzo@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.4.5"
+  }
+}
