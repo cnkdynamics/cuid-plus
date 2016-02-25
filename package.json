@@ -1,11 +1,10 @@
 {
   "name": "cuid-plus",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "cuid add-on functions",
   "main": "index.js",
   "scripts": {
-    "test": "clear; mocha --reporter spec test.js",
-    "watch": "clear; mocha --reporter min --watch test.js"
+    "test": "clear; mocha --reporter spec test.js"
   },
   "repository": {
     "type": "git",

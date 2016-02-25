@@ -4,16 +4,19 @@
 
 `getTimestamp(id)` Returns the timestamp portion of the `cuid` ids as a Date.
 
-`isValid(id)` Returns `true` if the value is a valid `cuid` ids, return `false` otherwise. The `id` param is considered valid if the following are met:
+`isValid(id)` Returns `true` if the value is a valid `cuid` ids, return `false` otherwise.
+
+The `id` param is considered valid if the following are met:
 
 - 25 characters long
 - Starts with the "c" prefix identifier
 
 See the `cuid`  [breakdown](https://github.com/ericelliott/cuid#installing) for details.
 
-## installing
-
+## Installing
+```
 $ npm install cuid-plus --save
+```
 
 ## Example
 ```

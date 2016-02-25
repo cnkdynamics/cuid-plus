@@ -15,6 +15,11 @@ exports.getTimestamp = function (id) {
     return new Date(parseInt(id.substr(1, 8), 36));
 };
 
+/**
+ * Returns true if the value is a valid cuid ids, return false otherwise.
+ * @param  {string}  id cuid string
+ * @return {Boolean}   <code>true/false</code>
+ */
 exports.isValid = function (id) {
     let ID_LENGTH = 25,
         ID_PREFIX = "c";
