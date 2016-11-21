@@ -47,5 +47,5 @@ $ test
 ```
 
 ## Credit
-- By [frlorenzo](https://github.com/frlorenzo)
+- By [cnkdynamics](https://github.com/cnkdynamics)
 - [cuid](https://npmjs.org/package/cuid) by Eric Elliott

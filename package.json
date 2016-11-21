@@ -1,6 +1,6 @@
 {
   "name": "cuid-plus",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "cuid add-on functions",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frlorenzo/cuid-plus.git"
+    "url": "git+https://github.com/cnkdynamics/cuid-plus.git"
   },
   "keywords": [
     "cuid",
@@ -16,7 +16,7 @@
     "timestamp",
     "valid"
   ],
-  "author": "frlorenzo@gmail.com",
+  "author": "frlorenzo@cnkdynamics.com",
   "license": "ISC",
   "devDependencies": {
     "expect.js": "^0.3.1",
